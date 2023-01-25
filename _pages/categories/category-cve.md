@@ -1,7 +1,7 @@
 ---
 title: "CVE"
 layout: category
-permalink: /language/cve/
+permalink: /write_up/cve/
 author_profile: true
 taxonomy: CVE
 sidebar:

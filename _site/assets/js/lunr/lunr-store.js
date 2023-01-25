@@ -14,13 +14,13 @@ var store = [{
         "title": "ctf 테스트",
         "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["CTF"],
         "tags": ["CTF"],
-        "url": "/write_up/ctf",
+        "url": "/write_up/ctf_test",
         "teaser": null
       },{
         "title": "cve 테스트",
         "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["CVE"],
         "tags": ["CVE"],
-        "url": "/language/cve",
+        "url": "/write_up/cve_test",
         "teaser": null
       },{
         "title": "C&C++ 테스트",
@@ -32,7 +32,7 @@ var store = [{
         "title": "M/L 테스트",
         "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["Machine Learning"],
         "tags": ["Machine Learning"],
-        "url": "/machine_learning",
+        "url": "/machine_learning/mltest",
         "teaser": null
       },{
         "title": "python 테스트",

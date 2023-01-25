@@ -1,7 +1,7 @@
 ---
 title: "Wargame"
 layout: category
-permalink: /language/wargame/
+permalink: /write_up/wargame/
 author_profile: true
 taxonomy: Wargame
 sidebar:

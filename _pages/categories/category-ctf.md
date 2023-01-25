@@ -1,7 +1,7 @@
 ---
 title: "CTF"
 layout: category
-permalink: /language/ctf/
+permalink: /write_up/ctf/
 author_profile: true
 taxonomy: CTF
 sidebar:
