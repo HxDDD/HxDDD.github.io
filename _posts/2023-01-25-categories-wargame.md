@@ -1,13 +1,13 @@
 ---
-title: "테스트"
+title: "워게임 테스트"
 excerpt: "내용 테스트"
 
 categories:
-  - Web
+  - Wargame
 tags:
-  - [Web]
+  - [Wargame]
 
-permalink: /web/test_web
+permalink: /write_up/wargame
 
 toc: true
 toc_sticky: true

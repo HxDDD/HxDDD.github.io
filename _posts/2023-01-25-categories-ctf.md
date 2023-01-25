@@ -1,13 +1,13 @@
 ---
-title: "테스트"
+title: "ctf 테스트"
 excerpt: "내용 테스트"
 
 categories:
-  - Web
+  - CTF
 tags:
-  - [Web]
+  - [CTF]
 
-permalink: /web/test_web
+permalink: /write_up/ctf
 
 toc: true
 toc_sticky: true

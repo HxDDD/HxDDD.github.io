@@ -1,13 +1,13 @@
 ---
-title: "테스트"
+title: "C&C++ 테스트"
 excerpt: "내용 테스트"
 
 categories:
-  - Web
+  - C&C++
 tags:
-  - []
+  - [C&C++]
 
-permalink: /web/test123
+permalink: /language/include
 
 toc: true
 toc_sticky: true

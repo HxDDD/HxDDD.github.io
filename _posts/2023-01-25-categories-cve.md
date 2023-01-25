@@ -1,13 +1,13 @@
 ---
-title: "테스트"
+title: "cve 테스트"
 excerpt: "내용 테스트"
 
 categories:
-  - Web
+  - CVE
 tags:
-  - [Web]
+  - [CVE]
 
-permalink: /web/test_web
+permalink: /language/cve
 
 toc: true
 toc_sticky: true
