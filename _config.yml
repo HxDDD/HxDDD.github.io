@@ -14,6 +14,7 @@
 
 # plum skin 활용하여 색상 설정함. 변경하려면 _sass/minimal-mistakes/skins/_plum.scss 에서 변경하거나
 # 해당 디렉토리 내의 다른 테마로 변경 가능 (minimal-mistakes 기본 제공 테마)
+
 minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
@@ -25,7 +26,7 @@ name: "HxDDD" # 블로그 닉네임 설정
 description: "마이그레이션 중입니다~" # 블로그 설명
 url: "https://HxDDD.github.io" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "HxDDD/HxDDD.github.io" # GitHub Repo 이름
+repository: "HxDDD.github.io" # GitHub Repo 이름
 teaser: #
 
 # logo                     : # 블로그명 앞에 로고 추가하고 싶을 경우 사용
