@@ -7,7 +7,7 @@ categories:
 tags:
   - [CVE]
 
-permalink: /language/cve
+permalink: /write_up/cve_test
 
 toc: true
 toc_sticky: true

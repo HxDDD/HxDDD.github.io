@@ -7,7 +7,7 @@ categories:
 tags:
   - [CTF]
 
-permalink: /write_up/ctf
+permalink: /write_up/ctf_test
 
 toc: true
 toc_sticky: true

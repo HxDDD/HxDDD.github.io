@@ -1,31 +1,67 @@
 var store = [{
-        "title": "[포스팅 예시] 이곳에 제목을 입력하세요",
-        "excerpt":"🦥 본문   본문은 여기에 …  ","categories": ["Categories1"],
-        "tags": ["tag1","tag2"],
-        "url": "/categories1/post-name-here/",
+        "title": "테스트",
+        "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["Android"],
+        "tags": ["Android"],
+        "url": "/web/test_android",
         "teaser": null
       },{
-        "title": "[포스팅 예시] 이곳에 제목을 입력하세요",
-        "excerpt":"🦥 본문   본문은 여기에 …  ","categories": ["Categories2"],
-        "tags": ["tag1","tag2"],
-        "url": "/categories2/post-name-here-2/",
+        "title": "코딩 테스트",
+        "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["Coding Test"],
+        "tags": ["Coding Test"],
+        "url": "/language/coding_test",
         "teaser": null
       },{
-        "title": "[포스팅 예시] 이곳에 제목을 입력하세요",
-        "excerpt":"🦥 본문   본문은 여기에 …  ","categories": ["Categories3"],
-        "tags": ["tag1","tag2"],
-        "url": "/categories3/post-name-here-3/",
+        "title": "ctf 테스트",
+        "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["CTF"],
+        "tags": ["CTF"],
+        "url": "/write_up/ctf",
         "teaser": null
       },{
-        "title": "[포스팅 예시] 이곳에 제목을 입력하세요",
-        "excerpt":"🦥 본문   본문은 여기에 …  ","categories": ["Categories4"],
-        "tags": ["tag1","tag2"],
-        "url": "/categories4/post-name-here-4/",
+        "title": "cve 테스트",
+        "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["CVE"],
+        "tags": ["CVE"],
+        "url": "/language/cve",
+        "teaser": null
+      },{
+        "title": "C&C++ 테스트",
+        "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["C&C++"],
+        "tags": ["C&C++"],
+        "url": "/language/include_test",
+        "teaser": null
+      },{
+        "title": "M/L 테스트",
+        "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["Machine Learning"],
+        "tags": ["Machine Learning"],
+        "url": "/machine_learning",
+        "teaser": null
+      },{
+        "title": "python 테스트",
+        "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["Python"],
+        "tags": ["Python"],
+        "url": "/language/python_test",
+        "teaser": null
+      },{
+        "title": "React 테스트",
+        "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["React"],
+        "tags": ["React"],
+        "url": "/language/react_test",
+        "teaser": null
+      },{
+        "title": "리버싱 테스트",
+        "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["Reverse Engineering"],
+        "tags": ["Reversing"],
+        "url": "/reversing/test_revsering",
+        "teaser": null
+      },{
+        "title": "워게임 테스트",
+        "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["Wargame"],
+        "tags": ["Wargame"],
+        "url": "/write_up/wargame_test",
         "teaser": null
       },{
         "title": "테스트",
-        "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["web"],
-        "tags": ["secure","web","test"],
-        "url": "/web/test123",
+        "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["Web"],
+        "tags": ["Web"],
+        "url": "/web/test_web",
         "teaser": null
       }]
