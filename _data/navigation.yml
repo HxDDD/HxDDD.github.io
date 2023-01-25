@@ -51,3 +51,5 @@ categories:
     children:
       - title: "AI"
         url: /machine_learning/ai/
+      - title: "Deep Learning"
+        url: /machine_learing/deep_learning/
