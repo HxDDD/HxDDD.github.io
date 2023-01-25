@@ -63,6 +63,9 @@
 <loc>http://localhost:4000/write_up/cve/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/machine_learning/deep_learning</loc>
+</url>
+<url>
 <loc>http://localhost:4000/language/include/</loc>
 </url>
 <url>
