@@ -42,7 +42,7 @@ categories:
     children:
       - title: "Wargame"
         url: /write_up/wargame/
-      - title: "Ctf"
+      - title: "CTF"
         url: /write_up/ctf/
       - title: "CVE"
         url: /write_up/cve/
