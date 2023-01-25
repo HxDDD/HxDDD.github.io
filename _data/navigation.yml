@@ -48,4 +48,6 @@ categories:
         url: /write_up/cve/
 
   - title: "Machine Learning"
-    url: /machine_learning/
+    children:
+      - title: Ai
+        url: /machine_learning/ai/
