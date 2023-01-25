@@ -5,7 +5,7 @@ excerpt: "내용 테스트"
 categories:
   - Android
 tags:
-  - [android]
+  - [Android]
 
 permalink: /web/test_android
 
