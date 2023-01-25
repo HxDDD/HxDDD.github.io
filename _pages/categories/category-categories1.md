@@ -1,9 +1,9 @@
 ---
-title: "Categories1"
+title: "Secure"
 layout: category
-permalink: /categories/categories1/
+permalink: /secure/web
 author_profile: true
-taxonomy: Categories1
+taxonomy: Secure
 sidebar:
   nav: "categories"
 ---
