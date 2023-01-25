@@ -49,5 +49,5 @@ categories:
 
   - title: "Machine Learning"
     children:
-      - title: AI
+      - title: "AI"
         url: /machine_learning/ai/
