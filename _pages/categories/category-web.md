@@ -3,7 +3,7 @@ title: "Web"
 layout: category
 permalink: /secure/web/
 author_profile: true
-taxonomy: Secure
+taxonomy: Web
 sidebar:
   nav: "categories"
 ---
