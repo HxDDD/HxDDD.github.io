@@ -32,7 +32,7 @@ var store = [{
         "title": "M/L 테스트",
         "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["Machine Learning"],
         "tags": ["Machine Learning"],
-        "url": "/machine_learning/ai",
+        "url": "/machine_learning/ai_test",
         "teaser": null
       },{
         "title": "python 테스트",
