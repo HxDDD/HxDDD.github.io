@@ -21,31 +21,31 @@ categories:
   - title: "Secure"
     children:
       - title: "Web"
-        url: /secure/web
+        url: /secure/web/
       - title: "Android"
-        url: /secure/android
+        url: /secure/android/
       - title: "Reverse Engineering"
-        url: /secure/Reverse_Engineering
+        url: /secure/Reverse_Engineering/
 
   - title: "Language"
     children:
       - title: "Coding Test"
-        url: /language/coding_test
+        url: /language/coding_test/
       - title: "Python"
-        url: /language/python
+        url: /language/python/
       - title: "React"
-        url: /language/react
+        url: /language/react/
       - title: "C&C++"
-        url: /language/include
+        url: /language/include/
 
   - title: "Write-up"
     children:
       - title: "Wargame"
-        url: /write_up/wargame
+        url: /write_up/wargame/
       - title: "Ctf"
-        url: /write_up/ctf
+        url: /write_up/ctf/
       - title: "CVE"
-        url: /write_up/cve
+        url: /write_up/cve/
 
   - title: "Machine Learning"
-    url: /machine_learning
+    url: /machine_learning/
