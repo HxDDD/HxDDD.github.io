@@ -26,6 +26,6 @@ var store = [{
         "title": "테스트",
         "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["web"],
         "tags": ["secure","web","test"],
-        "url": "/web/test",
+        "url": "/web/test123",
         "teaser": null
       }]
