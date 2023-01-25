@@ -7,7 +7,7 @@ categories:
 tags:
   - [Machine Learning]
 
-permalink: /machine_learning/ai
+permalink: /machine_learning/ai_test
 
 toc: true
 toc_sticky: true
