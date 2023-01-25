@@ -1,7 +1,7 @@
 ---
 title: "Secure"
 layout: category
-permalink: /secure/web
+permalink: /categories/secure/
 author_profile: true
 taxonomy: Secure
 sidebar:
