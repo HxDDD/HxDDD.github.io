@@ -17,13 +17,14 @@
 <lastmod>2022-07-24T00:00:00+09:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/web/test</loc>
+<lastmod>2023-01-25T00:00:00+09:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/categories/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/categories/categories1/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/categories/categories2/</loc>
@@ -33,6 +34,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/categories/categories4/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/secure/web/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
