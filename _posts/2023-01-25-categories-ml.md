@@ -1,13 +1,13 @@
 ---
-title: "C&C++ 테스트"
+title: "M/L 테스트"
 excerpt: "내용 테스트"
 
 categories:
-  - C&C++
+  - Machine Learning
 tags:
-  - [C&C++]
+  - [Machine Learning]
 
-permalink: /language/include_test
+permalink: /machine_learning
 
 toc: true
 toc_sticky: true

@@ -7,7 +7,7 @@ categories:
 tags:
   - [React]
 
-permalink: /language/react
+permalink: /language/react_test
 
 toc: true
 toc_sticky: true

@@ -7,7 +7,7 @@ categories:
 tags:
   - [Python]
 
-permalink: /language/python
+permalink: /language/python_test
 
 toc: true
 toc_sticky: true

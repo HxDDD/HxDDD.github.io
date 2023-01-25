@@ -7,7 +7,7 @@ categories:
 tags:
   - [Wargame]
 
-permalink: /write_up/wargame
+permalink: /write_up/wargame_test
 
 toc: true
 toc_sticky: true
