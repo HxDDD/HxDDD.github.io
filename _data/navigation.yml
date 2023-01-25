@@ -25,7 +25,7 @@ categories:
       - title: "Android"
         url: /secure/android/
       - title: "Reverse Engineering"
-        url: /secure/reverse_engineering/
+        url: /secure/reversing/
 
   - title: "Language"
     children:
