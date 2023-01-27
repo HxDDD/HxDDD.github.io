@@ -46,10 +46,9 @@ categories:
         url: /write_up/ctf/
       - title: "CVE"
         url: /write_up/cve/
+      
 
   - title: "Machine Learning"
     children:
       - title: "AI"
         url: /machine_learning/ai/
-      - title: "Deep Learning"
-        url: /machine_learning/deep_learning/

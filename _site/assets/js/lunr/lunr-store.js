@@ -29,9 +29,9 @@ var store = [{
         "url": "/language/include_test",
         "teaser": null
       },{
-        "title": "M/L 테스트",
-        "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["Machine Learning"],
-        "tags": ["Machine Learning"],
+        "title": "ml 테스트",
+        "excerpt":"🦥 본문   본문은 여기에 … 테스트  ","categories": ["AI"],
+        "tags": ["AI"],
         "url": "/machine_learning/ai_test",
         "teaser": null
       },{

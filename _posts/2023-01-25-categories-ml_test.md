@@ -1,11 +1,11 @@
 ---
-title: "M/L 테스트"
+title: "ml 테스트"
 excerpt: "내용 테스트"
 
 categories:
-  - Machine Learning
+  - AI
 tags:
-  - [Machine Learning]
+  - [AI]
 
 permalink: /machine_learning/ai_test
 
