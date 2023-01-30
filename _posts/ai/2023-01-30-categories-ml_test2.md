@@ -1,0 +1,22 @@
+---
+title: "ml 테스트2"
+excerpt: "내용 테스트2"
+
+categories:
+  - AI
+tags:
+  - [AI]
+
+permalink: /machine_learning/ai_test3
+
+toc: true
+toc_sticky: true
+
+date: 2023-01-30
+last_modified_at: 2023-01-30
+---
+
+## 🦥 본문
+
+본문은 여기에 ...
+테스트
