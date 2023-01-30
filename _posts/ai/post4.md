@@ -1,13 +1,13 @@
 ---
-title: "ml 테스트2"
-excerpt: "내용 테스트2"
+title: "ml 테스트4"
+excerpt: "내용 테스트4"
 
 categories:
   - AI
 tags:
   - [AI]
 
-permalink: /machine_learning/ai_test3
+permalink: /machine_learning/ai_test4
 
 toc: true
 toc_sticky: true
